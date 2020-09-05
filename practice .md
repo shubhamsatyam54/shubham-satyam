@@ -11,7 +11,7 @@ hry 'git status' hh
 
 - SSD
   - SKD
-  - SRF
+    - SRF
 
 1. S
 2. S
