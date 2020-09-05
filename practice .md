@@ -12,4 +12,4 @@ hry 'git status' hh
 --
 jnjnn 
 ---
-[fb](www.facebook.com)
+[fb](HTTPS://www.facebook.com)
