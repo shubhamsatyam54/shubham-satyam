@@ -22,7 +22,7 @@ hry 'git status' hh
 [fb](HTTPS://www.facebook.com)
 
 
-- [ ] \ ch1
+- [ ] \(Optional) ch1
 - [x] ch2
 - [ ] ch3
 - [ ] ch4
