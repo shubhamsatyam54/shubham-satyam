@@ -27,6 +27,7 @@ hry 'git status' hh
 - [ ] ch3
 - [ ] ch4
 
-| fh | sh |
-| --- | -- |
-| fh | sh |
+| fh | sh | sh |
+| :--- | :--: | --: |
+| 'fh' | sh | sh |
+
