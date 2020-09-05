@@ -6,7 +6,7 @@ This is a text
 
 
 
-'git status'
+hry 'git status' hh
 
 
 ---
