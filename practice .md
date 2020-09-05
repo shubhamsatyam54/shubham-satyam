@@ -9,8 +9,6 @@ This is a text
 hry 'git status' hh
 
 
+-- jnjnn 
 ---
-g1
-g2
-g3
----
+
